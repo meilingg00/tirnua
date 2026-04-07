@@ -41,5 +41,5 @@ A smart water bottle that helps with your drinking posture
 > <img src="images/tirnua_components.jpg">
 
 > Inside the bottle
-> <img src="images/tirnua_inside.jpg">
-> <img src="images/tirnua_inside2.jpg">
+> <img src="images/tirnua_inside.JPG">
+> <img src="images/tirnua_inside2.JPG">
